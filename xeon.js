@@ -1,3 +1,3 @@
 {
-	"name": "Kinchan Multi Device"
+	"name": "Cheems Bot Multi Device "
 }
